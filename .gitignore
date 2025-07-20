@@ -1,4 +1,6 @@
 DataSet/*
 logs
 
+.ipynb_checkpoints/
+
 *.sh
